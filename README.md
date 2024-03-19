@@ -1,3 +1,3 @@
 # resume
 my resume
-https://resume-tiurne.netlify.app/
+https://tiurne-resume.netlify.app/
